@@ -1,0 +1,21 @@
+{
+  "name": "electric-cars-website",
+  "version": "1.0.0",
+  "description": "A website dedicated to electric cars around the world, featuring content in multiple languages.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build process not defined yet.'"
+  },
+  "keywords": [
+    "electric cars",
+    "sustainability",
+    "automotive",
+    "environment"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
